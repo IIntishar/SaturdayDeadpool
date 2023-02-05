@@ -19,6 +19,6 @@ public class Car {
 	  
 	  public static String myMethod2() {
 
-	    String result = "Goodbye, world!";
+	    String result = "Goodbye, world, I'm Going home!";
 	    return result;
 }}

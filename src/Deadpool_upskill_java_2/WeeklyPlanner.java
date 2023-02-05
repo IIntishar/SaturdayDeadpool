@@ -11,7 +11,7 @@ public class WeeklyPlanner {
 		    System.out.println("Today is Monday. Time to start the work week!");
 		    break;
 		  case "Tuesday":
-		    System.out.println("Today is Tuesday. Keep up the good work!");
+		    System.out.println("Today is Tuesday. Keep up the good work, Yeaaaa!!!!");
 		    break;
 		  case "Wednesday":
 		    System.out.println("Today is Wednesday. Halfway through the week!");
@@ -30,6 +30,8 @@ public class WeeklyPlanner {
 		    break;
 		  default:
 		    System.out.println("Invalid day of the week entered. Please try again.");
+		    
+		    // 2nd Test
 		}
 	}
   }
